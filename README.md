@@ -1,6 +1,4 @@
-# mz-project
-
-> 明珠会员卡
+# card-template
 
 ## Build Setup
 
